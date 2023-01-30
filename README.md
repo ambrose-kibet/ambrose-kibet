@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-<br>- 🔭 I’m currently a full-time student at Microverse<br>- 🌱 I’m currently Data Structures and algorithms<br>- 👯 I’m looking to collaborate on full-stack app development (MERN)<br>- 🤔 I’m looking for help with Ruby on rails and Postgres.<br>- 📫 How to reach me: ambrosekibet36@gmail.com.<br>- ⚡ Fun fact: besides building web apps, I enjoy playing video games and drawing cartoons.
+<br>- 🔭 I’m currently a full-time student at Microverse<br>- 🌱 I’m currently learning Data Structures and algorithms<br>- 👯 I’m looking to collaborate on full-stack app development (MERN)<br>- 🤔 I’m looking for help with Ruby on rails and Postgres.<br>- 📫 How to reach me: ambrosekibet36@gmail.com.<br>- ⚡ Fun fact: besides building web apps, I enjoy playing video games and drawing cartoons.
 
 ## 🌐 Socials:
 
