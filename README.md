@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 
-<br>- 🔭 I’m  a freelance Web Developer <br>- 🌱 I’m currently learning Nest.js<br>- 👯 I’m looking to collaborate on full-stack app development projects <br>- 📫 How to reach me: [email](ambrosekibet36@gmail.com).<br>- ⚡ Fun fact: besides building web apps, I like playing video games and drawing cartoon characters.
+<br>- 🔭 I’m  a freelance software Developer <br>- 🌱 I’m currently learning Django<br>- 👯 I’m looking to collaborate on full-stack app development projects <br>- 📫 How to reach me: [email](ambrosekibet36@gmail.com).<br>- ⚡ Fun fact: besides building web apps, I like playing video games and drawing cartoon characters.
 
 ## 🌐 Socials:
 
